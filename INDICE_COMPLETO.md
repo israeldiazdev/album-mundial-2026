@@ -234,9 +234,9 @@ Total: 48 Equipos, 12 Grupos, 624 Estampas
 
 ### Colecciones Especiales
 ```
-Elementos: 109 estampas
+Elementos: 356 estampas
 Coca-Cola: 12 estampas
-TOTAL: 745 estampas
+TOTAL: 980 estampas
 ```
 
 ---

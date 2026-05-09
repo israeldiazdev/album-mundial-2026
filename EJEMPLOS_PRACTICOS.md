@@ -40,7 +40,7 @@ Después de una semana, tengo:
 
 Acción en la app:
 1. Abro "📊 Panel de Control"
-2. Veo: Obtuve 45/745 (6.04%)
+2. Veo: Obtuve 45/980 (4.6%)
 3. Veo gráfico de progreso
 4. Descargo mi progreso como respaldo
 ```
@@ -154,7 +154,7 @@ Grupos: 245/624 (39.3%)
   - Grupo D: 39/52
   - Resto: 50/390
 
-Elementos: 80/109 (73.4%)
+Elementos: 80/356 (22.5%)
   - Balón: 10/10 ✅
   - Copa: 8/8 ✅
   - Mascotas: 15/15 ✅
@@ -165,7 +165,7 @@ Coca-Cola: 8/12 (66.7%)
 
 Repetidas: 15 estampas
 
-Total: 328/745 (44.0%)
+Total: 328/980 (33.5%)
 ```
 
 ### Gráficos Mostrados
@@ -232,7 +232,7 @@ Workflow:
 
 ```
 Cálculo:
-- Total: 745 estampas
+- Total: 980 estampas
 - Tiempo: 12 semanas
 - Velocidad requerida: 62 estampas/semana
 
@@ -245,12 +245,12 @@ Compras:
 
 ### Tracking semanal
 ```
-Semana 1: 50/745 ✓
-Semana 2: 110/745 ✓
-Semana 3: 170/745 ✓
-Semana 4: 230/745 ✓
+Semana 1: 50/980 ✓
+Semana 2: 110/980 ✓
+Semana 3: 170/980 ✓
+Semana 4: 230/980 ✓
 ...
-Semana 12: 745/745 ✅ COMPLETADO
+Semana 12: 980/980 ✅ COMPLETADO
 
 La app grafica toda esta evolución
 ```
@@ -264,13 +264,13 @@ La app grafica toda esta evolución
 ```
 RANKING:
 
-🥇 Carlitos - 350/745 estampas (47%)
+🥇 Carlitos - 350/980 estampas (36%)
    Grupos avanzados: A, B, C, E
 
-🥈 María - 320/745 estampas (43%)
+🥈 María - 320/980 estampas (33%)
    Grupos avanzados: A, B, D, F
 
-🥉 Juan - 280/745 estampas (38%)
+🥉 Juan - 280/980 estampas (29%)
    Grupos avanzados: A, C, G
 
 Próximo check: domingo

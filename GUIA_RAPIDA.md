@@ -85,13 +85,13 @@ Total grupos: 624 estampas
 
 ### Elementos Especiales
 ```
-✅ Balón Oficial Trionda: 10 estampas
-✅ Copa del Mundo: 8 estampas
-✅ Mascotas (Maple, Zayu, Clutch): 15 estampas
-✅ Estadios: 16 estampas
-✅ Insignias Naciones: 48 estampas
-✅ Otros Elementos: 12 estampas
-Total Elementos: 109 estampas
+✅ Balón Oficial Trionda: 64 estampas
+✅ Copa del Mundo: 48 estampas
+✅ Mascotas: 48 estampas
+✅ Estadios: 64 estampas
+✅ Insignias Naciones: 64 estampas
+✅ Otros Elementos: 68 estampas
+Total Elementos: 356 estampas
 ```
 
 ### Coca-Cola
@@ -103,7 +103,7 @@ Cada una es una selección participante
 ### Total Álbum
 ```
 ⚽ Grupos + Elementos + Coca-Cola
-624 + 109 + 12 = 745 ESTAMPAS TOTALES
+624 + 356 + 12 = 980 ESTAMPAS TOTALES
 ```
 
 ---

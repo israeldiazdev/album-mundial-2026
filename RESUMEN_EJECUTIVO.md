@@ -47,11 +47,11 @@ Se ha desarrollado exitosamente una **página web profesional, interactiva y com
 ### ✅ Sección Elementos del Mundial
 - **Balón Oficial Trionda:** 10 estampas
 - **Copa del Mundo:** 8 estampas
-- **Mascotas:** 15 estampas
-- **Estadios:** 16 estampas
-- **Insignias:** 48 estampas
-- **Otros:** 12 estampas
-- **Total:** 109 estampas
+- **Mascotas:** 48 estampas
+- **Estadios:** 64 estampas
+- **Insignias:** 64 estampas
+- **Otros:** 68 estampas
+- **Total:** 356 estampas
 
 ### ✅ Sección Coca-Cola
 - **Colección especial:** 12 estampas
@@ -119,11 +119,11 @@ Se ha desarrollado exitosamente una **página web profesional, interactiva y com
 ## 📈 Métricas del Proyecto
 
 ### Contenido
-- **Total estampas:** 745
+- **Total estampas:** 980
 - **Grupos:** 12
 - **Equipos:** 48
 - **Jugadores:** 624 estampas
-- **Elementos:** 109 estampas
+- **Elementos:** 356 estampas
 - **Coca-Cola:** 12 estampas
 
 ### Técnico

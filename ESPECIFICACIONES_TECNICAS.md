@@ -116,14 +116,14 @@ Grupo L (4 equipos):
   - Japón, Camboya, Vietnam, Bangladesh
 ```
 
-### Elementos Especiales (109 Estampas)
+### Elementos Especiales (356 Estampas)
 ```
-1. Balón Oficial Trionda: 10 estampas
-2. Copa del Mundo: 8 estampas
-3. Mascotas (Maple, Zayu, Clutch): 15 estampas
-4. Estadios: 16 estampas
-5. Insignias de Naciones: 48 estampas
-6. Otros Elementos: 12 estampas
+1. Balón Oficial Trionda: 64 estampas
+2. Copa del Mundo: 48 estampas
+3. Mascotas: 48 estampas
+4. Estadios: 64 estampas
+5. Insignias de Naciones: 64 estampas
+6. Otros Elementos: 68 estampas
 ```
 
 ### Colección Coca-Cola (12 Estampas)
@@ -145,9 +145,9 @@ COCA-12: Selección Canadá
 ### Total Álbum
 ```
 Grupos: 624 estampas
-Elementos: 109 estampas
+Elementos: 356 estampas
 Coca-Cola: 12 estampas
-TOTAL: 745 ESTAMPAS
+TOTAL: 980 ESTAMPAS
 ```
 
 ---

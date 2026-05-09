@@ -149,9 +149,9 @@ GRUPO L: Japón, Camboya, Vietnam, Bangladesh
 
 ### Total de Estampas
 - **Grupos:** 12 × 4 equipos × 13 jugadores = **624 estampas**
-- **Elementos:** 109 estampas
+- **Elementos:** 356 estampas
 - **Coca-Cola:** 12 estampas
-- **TOTAL:** 745 estampas
+- **TOTAL:** 980 estampas
 
 ---
 
